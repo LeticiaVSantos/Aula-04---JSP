@@ -1,0 +1,16 @@
+<%@ page pageEncoding="UTF-8" %>
+
+
+    <hr><center><footer class="footer">
+            
+            <div class="position-relative">
+            
+            <br>
+                    
+            <h5>Aula 04</h5>
+            <p>Desenvolvido por: Letícia Vitória dos Santos. <a href="https://github.com/LeticiaVSantos">GitHub</a></p>
+            <p>© 2018 Copyright:</p>
+            <a href='https://github.com/LeticiaVSantos/Aula-04---JSP.git'</a>Projeto JSP
+             
+            </div>
+            </footer></center>
