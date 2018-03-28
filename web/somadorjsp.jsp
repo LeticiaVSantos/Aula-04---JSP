@@ -3,8 +3,11 @@
 <!DOCTYPE html>
 <html>
     <head>
+        
+        <%@include file="WEB-INF/jspf/favicon.jspf" %>
+        
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Aula 04: JSP (Somador)</title>
+        <title>Aula 04: JSP Somador</title>
     </head>
     <body>
         
