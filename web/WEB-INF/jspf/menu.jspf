@@ -6,7 +6,7 @@
 
 <div>
     <nav class="navbar navbar-light" style="background-color: #e3f2fd">
-            <a href="index.jsp">Index</a> |
+            | <a href="index.jsp">Index</a> |
             <a href="form.jsp">Form</a> |
             <a href="somadorjsp.jsp">Somador</a> |
             <a href="Random.jsp">Números Aleatórios</a> |
